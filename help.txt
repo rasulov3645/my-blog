@@ -1,0 +1,9 @@
+"""
+title:  Python и Django Web Framework (Полный курс по веб-разработке)
+author: ....
+link:   https://www.youtube.com/playlist?list=PLPRsICSqu9FoOpFyr8dlfLh9_n4nt_05u
+data:   28.02.2018
+
+"""
+
+
