@@ -2,4 +2,7 @@
 .idea/*
 
 # file help.txt
-./help.txt
+help.txt
+
+# .gitignore
+./.gitignore
